@@ -1,2 +1,3 @@
 # ai-final-project
-Feedforward neural network created in Fall 2022 for CSE-4633 Artificial Intelligence. It has one hidden layer, and was trained using backpropogation to classify the iris dataset. It is written using Python, and its only external dependencies are for getting data and mathematical functions.
+Feedforward neural network created in Fall 2022 for CSE-4633 Artificial Intelligence. It has one hidden layer, and was trained using backpropogation to classify the iris dataset. It is written using Python, and its only external dependencies are for getting data and mathematical functions. I have uploaded it here so that it is visible to potential employers or anyone else.
+To use, simply run the file using python 3 and follow the instructions in the terminal. The program will need to be run with the proper permissions to make files, as it does so to hold the weights and biases after training.
